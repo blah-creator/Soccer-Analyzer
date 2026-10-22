@@ -1,0 +1,7 @@
+path: C:/Users/etjew/OneDrive/Documents/Soccer Analyzer/soccer_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: soccer_ball
